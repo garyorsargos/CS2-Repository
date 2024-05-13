@@ -24,6 +24,5 @@ public class slmp {
             else if (l1[i] < l2[j]) i++;
             else j++;
         }
-        return;
     }
 }
